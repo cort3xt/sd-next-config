@@ -1,0 +1,53 @@
+{
+  "sd_model_checkpoint": "aZovyaRPGArtistTools_v4VAE [b82a91df9c]",
+  "sdp_options": [
+    "Flash attention",
+    "Memory attention",
+    "Math attention"
+  ],
+  "xformers_options": [
+    "Flash attention"
+  ],
+  "cuda_compile": [],
+  "nncf_compress_weights": [],
+  "ipex_optimize": [],
+  "openvino_devices": [],
+  "nncf_quantize": [],
+  "styles_dir": "models\\styles",
+  "outdir_txt2img_samples": "outputs\\text",
+  "outdir_img2img_samples": "outputs\\image",
+  "outdir_control_samples": "outputs\\control",
+  "outdir_extras_samples": "outputs\\extras",
+  "outdir_save": "outputs\\save",
+  "outdir_video": "outputs\\video",
+  "outdir_init_images": "outputs\\init-images",
+  "outdir_txt2img_grids": "outputs\\grids",
+  "outdir_img2img_grids": "outputs\\grids",
+  "outdir_control_grids": "outputs\\grids",
+  "theme_type": "Modern",
+  "gradio_theme": "Default",
+  "quicksettings_list": [
+    "sd_model_checkpoint"
+  ],
+  "show_samplers": [],
+  "schedulers_use_loworder": false,
+  "schedulers_timesteps": "999,850,736,645,545,455,343,233,124,24",
+  "postprocessing_enable_in_main_ui": [],
+  "postprocessing_operation_order": [],
+  "interrogate_clip_skip_categories": [
+    "artists",
+    "movements",
+    "flavors"
+  ],
+  "extra_networks": [
+    "All"
+  ],
+  "disabled_extensions": [],
+  "sd_checkpoint_hash": "b82a91df9cfd8a5e45dfb54236afd8f7e5162ee5181238bc1f6caa8a040d4e8b",
+  "clip_skip": 1,
+  "uni_pc_lower_order_final": false,
+  "uni_pc_order": 2,
+  "hypertile_unet_enabled": true,
+  "freeu_enabled": true,
+  "hypertile_hires_only": true
+}
