@@ -1,0 +1,7 @@
+{
+  "name": "negative",
+  "description": "",
+  "prompt": "",
+  "negative": "CyberRealistic_Negative,ugly,tiling,poorly drawn hands,poorly drawn feet,out of frame,extra limbs,disfigured,deformed,bad anatomy,((watermark)),((signature)),cut off,low contrast,underexposed,overexposed,bad art,beginner,amateur,distorted face,amputee,bad proportions,blank background,cropped,dismembered,disproportioned,distorted,grains,grainy,hazy,improper scale,incorrect physiology,incorrect ratio,kitsch,((logo)),macabre,malformed,misshapen,morbid,off-screen,outside the picture,pixelated,unfocused,unattractive,unnatural pose,(((text))),((border))",
+  "extra": ""
+}
